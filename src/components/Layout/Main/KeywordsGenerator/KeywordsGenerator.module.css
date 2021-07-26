@@ -1,0 +1,51 @@
+.button-wrapper {
+    position: absolute;
+    bottom: -2.5vh;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.keyword-generator__wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    align-self: baseline;
+    padding-left: 70px;
+    margin-top: -2.5vh;
+}
+
+.para {
+    color: #929292;
+    font-size: 16px;
+    margin-bottom: 45px;
+}
+
+.step {
+    font-weight: bold;
+    font-size: 16px;
+    color: #0083CB;
+    margin-bottom: 11px;
+    text-transform: uppercase;
+    margin-top: 25px;
+}
+
+.heading {
+    font-weight: 500;
+    font-size: 52px;
+    color: #383838;
+    margin-bottom: 10px;
+}
+
+.form {
+    border: 1px solid #EBEBEB;
+    padding: 16px 13px;
+    border-radius: 10px;
+    margin-bottom: 100px;
+    width: 600px;
+}
+
+.keywords-results__wrapper {
+    display: flex;
+    width: 100%;
+}

@@ -1,0 +1,26 @@
+button {
+    padding: 13px 39px;
+    border-radius: 4px;
+    border: none;
+    cursor: pointer;
+}
+
+.button {
+    background-color: #0083CB;
+    color: white;
+}
+
+.button-next {
+    background-color: white;
+    color: #0083CB;
+    border: 1px solid #0083CB;
+}
+
+.button-prev {
+    background-color: white;
+    color: #858585;
+}
+
+.button-prev span {
+    margin-right: 8px;
+}

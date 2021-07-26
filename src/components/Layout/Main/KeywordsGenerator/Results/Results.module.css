@@ -1,0 +1,14 @@
+.results {
+    width: 75%;
+    border: 1px solid #EBEBEB;
+    border-radius: 10px;
+    margin-left: 12px;
+    padding: 25px 43px;
+}
+
+.heading {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+    color: #4F4F4F;
+}

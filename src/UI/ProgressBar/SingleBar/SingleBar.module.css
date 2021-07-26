@@ -1,0 +1,21 @@
+.progress-bar__percentage {
+    transition: all 0.4s ease-out;
+    width: 33%;
+    position: relative;
+    background: #0083CB;
+    height: 100%;
+    opacity: 1;
+}
+
+.progress-bar__percentage--zero {
+    transition: all 0.4s ease;
+    position: relative;
+    opacity: 0;
+    width: 0%;
+    height: 100%;
+    background: white;
+}
+
+.progress-bar__percentage:nth-of-type(2) {
+    margin: 0 1px;
+}

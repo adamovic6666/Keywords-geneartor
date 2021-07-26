@@ -1,0 +1,8 @@
+.logo {
+    width: 120px;
+}
+
+.logo img {
+    width: 100%;
+    object-fit: contain;
+}

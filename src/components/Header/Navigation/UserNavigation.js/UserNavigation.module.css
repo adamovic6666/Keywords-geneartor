@@ -1,0 +1,22 @@
+.user-navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.user-navigation img {
+    object-fit: contain;
+}
+
+.user-navigation__img {
+    margin: 0 10px 0 30px;
+}
+
+.user-navigation select {
+    font-family: 'Inter', sans-serif;
+    border: 0;
+    font-size: 14px;
+    font-weight: 500;
+    color: #151422;
+    width: 130px;
+}

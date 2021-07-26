@@ -1,0 +1,21 @@
+.square {
+    height: 8px;
+    width: 8px;
+    background-color: #2F80ED;
+    margin-right: 6px;
+    line-height: 18px;
+}
+
+.heading-wrapper {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-size: 12px;
+    color: #2F80ED;
+    margin-bottom: 6px;
+}
+
+.product-keywords {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding-bottom: 15px;
+}

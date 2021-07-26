@@ -1,0 +1,26 @@
+.main-wellcome h1 
+{
+    margin-bottom: 30px;
+    color: #383838;
+    font-size: 69px;
+    font-weight: 500;
+}
+
+.main-wellcome p 
+{
+    color: #929292;
+    margin-bottom: 60px;
+    max-width: 500px;
+}
+
+.main-wellcome span 
+{
+    color: #0083CB;
+}
+
+.button-wrapper {
+    position: absolute;
+    bottom: 10vh;
+    left: 50%;
+    transform: translateX(-50%);
+}
